@@ -9,13 +9,13 @@ Did my BA in Philosophy and Master's in Cognitive Science. Fell in love with sta
 ## What I work with
 
 - **Python** - main language for everything
-- **Data analysis** - statistics, SQL, working with real datasets  
+- **Data analysis** - statistics, SQL, working with real datasets
 - **AI/ML** - exploring how to build smarter applications
 - **Backend development** - clean architecture, databases, APIs
 
 ## Current projects
 
-**CliniTrack** - Management system with analytics engine. Built this to practice working with relational data and generating business insights. The fun part was figuring out how to turn raw appointment data into meaningful trends.
+**[CliniTrack](https://github.com/paulsergiupopescu-afk/CliniTrack)** - Management system with analytics engine. Built this to practice working with relational data and generating business insights. The fun part was figuring out how to turn raw appointment data into meaningful trends.
 
 **AI Therapy Chatbot** *(coming soon)* - Working on a conversational AI that can provide therapeutic support. Combining my cognitive science background with RAG architecture to make something actually useful for mental health.
 
@@ -29,3 +29,5 @@ Statistics was my gateway drug into programming. There's something satisfying ab
 
 Junior dev or internship roles where I can work on AI, data analysis, or backend systems. Especially interested in projects that have a human element - healthcare, education, or anything that helps people make better decisions.
 
+---
+📍 Bucharest • Philosophy → Cognitive Science → Code
