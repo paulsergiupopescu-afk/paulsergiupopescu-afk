@@ -27,5 +27,5 @@ Statistics was my gateway drug into programming. There's something satisfying ab
 
 ## Looking for
 
-Junior dev or internship roles where I can work on AI, data analysis, or backend systems. Especially interested in projects that have a human element - healthcare, education, or anything that helps people make better decisions.
+Junior dev or internship roles where I can work on AI, data analysis, or backend systems. Especially interested in projects that have a human element: healthcare, education, or anything that helps people make better decisions.
 
