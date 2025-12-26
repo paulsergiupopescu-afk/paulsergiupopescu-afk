@@ -1,49 +1,31 @@
-# Hi there! 👋 I'm Paul Sergiu Popescu
+# Hey! 👋
 
-🚀 **Junior Python Developer** passionate about building efficient healthcare solutions and data-driven applications.
+I'm Paul, a philosophy graduate turned Python developer who got fascinated by AI and data analysis.
 
-## 🔧 What I'm Working With
+## Background
 
-**Languages & Technologies:**
-- **Python** - Primary language for backend development
-- **SQLite** - Database design and optimization
-- **SQL** - Complex queries and data analysis
-- **Git** - Version control and collaboration
+Did my BA in Philosophy and Master's in Cognitive Science. Fell in love with statistics during my studies and realized I wanted to build things that actually work with data. Now I'm coding and trying to bridge the gap between human cognition and machine learning.
 
-**Architecture & Patterns:**
-- Repository Pattern implementation
-- Clean code principles (SOLID, DRY)
-- Object-Oriented Programming
-- Database design and modeling
+## What I work with
 
-## 🏥 Featured Project: CliniTrack
+- **Python** - main language for everything
+- **Data analysis** - statistics, SQL, working with real datasets  
+- **AI/ML** - exploring how to build smarter applications
+- **Backend development** - clean architecture, databases, APIs
 
-**Dental Clinic Management System** - A comprehensive healthcare platform showcasing:
-- Advanced data analytics and business intelligence
-- Clean architecture with Repository pattern
-- CRUD operations with optimized database design
-- Interactive CLI interface with robust error handling
+## Current projects
 
-[🔗 View Project](https://github.com/paulsergiupopescu-afk/CliniTrack)
+**CliniTrack** - Management system with analytics engine. Built this to practice working with relational data and generating business insights. The fun part was figuring out how to turn raw appointment data into meaningful trends.
 
-## 📊 What I'm Learning
+**AI Therapy Chatbot** *(coming soon)* - Working on a conversational AI that can provide therapeutic support. Combining my cognitive science background with RAG architecture to make something actually useful for mental health.
 
-- Advanced Python frameworks (FastAPI, Flask)
-- Data visualization (matplotlib, plotly)
-- Modern frontend technologies
-- Machine learning fundamentals
+## What drives me
 
-## 🎯 Currently Seeking
+Honestly? I'm fascinated by how minds work - both human and artificial. Love digging into data to find patterns, building systems that help people, and figuring out how to make AI more human-like.
 
-**Junior Developer** or **Internship** opportunities where I can:
-- Apply clean coding principles to real-world projects
-- Contribute to healthcare or data-driven applications
-- Learn from experienced developers and grow my skills
-- Build impactful solutions that make a difference
+Statistics was my gateway drug into programming. There's something satisfying about cleaning messy data and making it tell a story.
 
-## 📍 Based in Bucharest, Romania
+## Looking for
 
-**Let's connect and build something amazing together!**
+Junior dev or internship roles where I can work on AI, data analysis, or backend systems. Especially interested in projects that have a human element - healthcare, education, or anything that helps people make better decisions.
 
----
-*"Code is like humor. When you have to explain it, it's bad." - Cory House*
