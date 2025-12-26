@@ -21,7 +21,7 @@ Did my BA in Philosophy and Master's in Cognitive Science. Fell in love with sta
 
 ## What drives me
 
-Honestly? I'm fascinated by how minds work - both human and artificial. Love digging into data to find patterns, building systems that help people, and figuring out how to make AI more human-like.
+Honestly? I'm fascinated by how minds work, both human and artificial. Love digging into data to find patterns, building systems that help people, and figuring out how to make AI more human-like.
 
 Statistics was my gateway drug into programming. There's something satisfying about cleaning messy data and making it tell a story.
 
@@ -29,5 +29,3 @@ Statistics was my gateway drug into programming. There's something satisfying ab
 
 Junior dev or internship roles where I can work on AI, data analysis, or backend systems. Especially interested in projects that have a human element - healthcare, education, or anything that helps people make better decisions.
 
----
-📍 Bucharest • Philosophy → Cognitive Science → Code
